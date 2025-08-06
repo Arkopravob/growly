@@ -30,7 +30,7 @@
 
 ---
 ## vercel link
-growly-1mze.vercel.app
+https://growly-1mze.vercel.app/
 
 ## render link
 https://growly-vs94.onrender.com
